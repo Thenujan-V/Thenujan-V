@@ -1,4 +1,3 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Thenujan</h1>
 <h3 align="center">A passionate Software Engineer in Srilanka</h3>
 <img align='right' width='300px' src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"/>
