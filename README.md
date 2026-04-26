@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenujan-v&label=Profile%20views&color=0e75b6&style=flat" alt="thenujan-v" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+🌐 **Portfolio:** https://thenujan-v.github.io/thenuzv/
 - 👨‍💻 All of my projects are available at [https://github.com/Thenujan-V](https://github.com/Thenujan-V)
 
 - 💬 Ask me about **Web development**
